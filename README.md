@@ -42,7 +42,7 @@ La clase **`LogisticRegression`** fue construida de forma modular, implementando
 
 ## 📊 Resultados y Evaluación del Modelo
 
-El modelo se entrenó con una tasa de aprendizaje de `0.01` y `10000` épocas. La evaluación en el conjunto de prueba arrojó las siguientes métricas, demostrando un rendimiento excepcional en la clasificación:
+El modelo se entrenó con una tasa de aprendizaje de `0.02` y `10000` épocas. La evaluación en el conjunto de prueba arrojó las siguientes métricas, demostrando un rendimiento excepcional en la clasificación:
 
 * **Accuracy (Precisión): 95.32%**: El modelo acertó en la predicción del diagnóstico el 95.32% de las veces.
 * **Precision (Precisión): 97.17%**: De todos los casos que el modelo predijo como positivos, el 97.17% eran realmente positivos. Esto indica un bajo número de **falsos positivos**.
